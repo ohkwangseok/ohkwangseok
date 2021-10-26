@@ -1,13 +1,10 @@
 - 👋 Hi, I’m @ohkwangseok
-- 👀 I’m interested in ... #Android #JAVA
+- 👀 I’m interested in ... #Android #JAVA ![Android](https://img.shields.io/badge/-Android-brightgreen) ![Java](https://img.shields.io/badge/-Java-red)
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohkwangseok&&show_icons=true&theme=cobalt)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohkwangseok&&show_icons=true&theme=cobalt)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohkwangseok)
-
-![Android](https://img.shields.io/badge/-Android-brightgreen)
-![Java](https://img.shields.io/badge/-Java-red)
 
 <!---
 ohkwangseok/ohkwangseok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
