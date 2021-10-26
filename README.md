@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @ohkwangseok
 - 👀 I’m interested in ... #Android #JAVA
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohkwangseok&&show_icons=true&theme=cobalt)]
+
+
 
 <!---
 ohkwangseok/ohkwangseok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
